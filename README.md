@@ -20,6 +20,16 @@ In this Project, I have used PHP and MySQL database. This is the project which k
 7. Logout: Through this button, user can log out.
 8. Admin can also recover his/her password.
 
+# Setup:
+1. Download the zip file
+2. Extract the file and copy Expense_Tracker folder
+3. Paste inside root directory(for xampp: xampp/htdocs)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+5. Create a database with name expense_db
+6. Import expense_db.sql file
+7. Run the script http://localhost/detspro(frontend)
+
+
 # Output Screen of the Project:
 Home Page:
 <img width="960" alt="2022-07-21 (6)" src="https://user-images.githubusercontent.com/108524555/180177482-bad1b46e-1984-4200-914b-905d4d064959.png">
