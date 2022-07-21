@@ -24,7 +24,7 @@ In this Project, I have used PHP and MySQL database. This is the project which k
 Home Page:
 <img width="960" alt="2022-07-21 (6)" src="https://user-images.githubusercontent.com/108524555/180177482-bad1b46e-1984-4200-914b-905d4d064959.png">
 User Signup:
-<img width="532" alt="2022-07-21 (4)" src="https://user-images.githubusercontent.com/108524555/180178091-1a1cbc44-7eaa-49ff-bb92-522a7c48fc77.png">
+<img width="938" alt="2022-07-21 (7)" src="https://user-images.githubusercontent.com/108524555/180180089-4364c1de-5ad8-467b-8b24-1369571ac6b0.png">
 User's Dashboard:
 <img width="960" alt="2022-07-21 (1)" src="https://user-images.githubusercontent.com/108524555/180178256-6be5676b-1a3f-4822-93e2-8d5d3cb9f9f8.png">
 User's Expenses:
