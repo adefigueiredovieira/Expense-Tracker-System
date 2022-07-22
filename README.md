@@ -27,7 +27,7 @@ In this Project, I have used PHP and MySQL database. This is the project which k
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name expense_db
 6. Import expense_db.sql file
-7. Run the script http://localhost/detspro(frontend)
+7. Run the script http://localhost/Expense_Tracker(frontend)
 
 
 # Output Screen of the Project:
